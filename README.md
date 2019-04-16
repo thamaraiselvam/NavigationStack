@@ -3,7 +3,7 @@ Implementing Backward and Forward buttons of Browser in JavaScript
 
 <img src="https://user-images.githubusercontent.com/6559664/56202478-c59c6a00-6060-11e9-90b5-708c3bfb1934.PNG"/>
 
-Run Program: ```Node stack.js```
+Run Program: ```node stack.js```
 
 
 Run Test: ``` mocha stack.test.js```
